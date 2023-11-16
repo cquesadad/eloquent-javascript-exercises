@@ -10,7 +10,17 @@ Solution for excercise in book **Eloquent Javascript** ***Third Edition***
 
 ## ❇ Exercises by chapter️
 
-- 02 - Program Structure: [Looping a Triangle](https://github.com/cquesadad/eloquent-javascript-exercises/tree/main/chapter-2/exercise-1)
+### Chapter 2. Program Structure
+
+01. [Looping a Triangle](https://github.com/cquesadad/eloquent-javascript-exercises/tree/main/chapter-2/exercise-1)
+02. [Fizzbuzz](https://github.com/cquesadad/eloquent-javascript-exercises/tree/main/chapter-2-program-structure/exercise-2)
+03. [Chessboard](https://github.com/cquesadad/eloquent-javascript-exercises/tree/main/chapter-2-program-structure/exercise-3)
+
+### Chapter 3. Functions
+
+01. [Minimum](https://github.com/cquesadad/eloquent-javascript-exercises/tree/main/chapter-3-functions/exercise-1)
+02. [Recursion](https://github.com/cquesadad/eloquent-javascript-exercises/tree/main/chapter-3-functions/exercise-2)
+03. [Bean Counting](https://github.com/cquesadad/eloquent-javascript-exercises/tree/main/chapter-3-functions/exercise-3)
 
 ## 📒 Extra resources:
 
