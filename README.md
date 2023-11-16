@@ -4,6 +4,9 @@
 
 Solution for excercise in book **Eloquent Javascript** ***Third Edition***
 
+
+<img alt="Eloquent Javascript exercises solutions" src="https://github.com/cquesadad/eloquent-javascript-exercises/blob/experiment/exercises-progress/chapter-2-program-structure/assets/cover-eloquentjavascript-exercises.png" width="600">
+
 </div>
 
 ## ❇ Exercises by chapter️
