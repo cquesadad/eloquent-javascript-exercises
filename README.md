@@ -1,11 +1,10 @@
 <div align="center">
 
+<img alt="Eloquent Javascript exercises solutions" src="https://github.com/cquesadad/eloquent-javascript-exercises/blob/experiment/exercises-progress/chapter-2-program-structure/assets/cover-eloquentjavascript-exercises.png" width="600">
+
 # Exercise Solutions Eloquent JavaScript ️🟡
 
 Solution for excercise in book **Eloquent Javascript** ***Third Edition***
-
-
-<img alt="Eloquent Javascript exercises solutions" src="https://github.com/cquesadad/eloquent-javascript-exercises/blob/experiment/exercises-progress/chapter-2-program-structure/assets/cover-eloquentjavascript-exercises.png" width="600">
 
 </div>
 
