@@ -1,0 +1,43 @@
+body{
+ background-color: #F2D44A;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Helvetica', sans-serif;
+}
+
+section {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background: white;
+    border-radius: 1rem;
+    padding: 1.75rem;
+    max-width: 900px;
+    margin: 0 auto;
+    box-shadow: 0px 5px 29px -15px rgb(135, 101, 0);
+}
+
+p,
+a,
+i,
+ul {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+ul {
+    margin: 0 auto;
+}
+
+li {
+    text-align: left;
+}
+
+code {
+    display: block;
+    text-align: left;
+    margin: 0 auto;
+}

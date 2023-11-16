@@ -12,7 +12,7 @@ for ( let i = 0; i <= 100; i++ ) {
 }
 
 
-//loop while that creates the result of the exercise 
+//loop while that creates the same result of the exercise 
 
 let counter = 1
 while (counter <= 100) {
